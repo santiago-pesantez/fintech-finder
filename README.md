@@ -6,7 +6,7 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 ### *Results:*
 
-![1](/images/res.gif)
+![1](/Images/res.gif)
 
 *Processing payment transactions through the WebApp.*
 
